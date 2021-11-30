@@ -1,0 +1,10 @@
+[{"sold_id":1,"seller_id":1,"product_id":1,"amount":30,"date":"14.08.2020"},
+{"sold_id":2,"seller_id":2,"product_id":1,"amount":35,"date":"14.08.2020"},
+{"sold_id":3,"seller_id":3,"product_id":3,"amount":6,"date":"12.05.2021"},
+{"sold_id":4,"seller_id":4,"product_id":2,"amount":10,"date":"12.05.2021"},
+{"sold_id":5,"seller_id":5,"product_id":1,"amount":5,"date":"10.03.2021"},
+{"sold_id":6,"seller_id":6,"product_id":2,"amount":27,"date":"14.08.2020"},
+{"sold_id":7,"seller_id":7,"product_id":3,"amount":14,"date":"10.03.2021"},
+{"sold_id":8,"seller_id":8,"product_id":2,"amount":2,"date":"08.02.2021"},
+{"sold_id":9,"seller_id":9,"product_id":1,"amount":19,"date":"12.05.2021"},
+{"sold_id":10,"seller_id":10,"product_id":2,"amount":32,"date":"08.02.2021"}]
