@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AmountSell>
+    <Date name="12.05.2021">
+        <amount>35</amount>
+    </Date>
+    <Date name="14.08.2020">
+        <amount>92</amount>
+    </Date>
+    <Date name="10.03.2021">
+        <amount>19</amount>
+    </Date>
+    <Date name="08.02.2021">
+        <amount>34</amount>
+    </Date>
+</AmountSell>

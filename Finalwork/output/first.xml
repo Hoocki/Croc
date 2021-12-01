@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MaxProduct>
+    <product_name name="Wine - Cotes Du Rhone">
+        <seller_name>Addi</seller_name>
+        <seller_surname>Philott</seller_surname>
+        <amount>81</amount>
+    </product_name>
+    <product_name name="Oxtail - Cut">
+        <seller_name>Lolly</seller_name>
+        <seller_surname>O' Faherty</seller_surname>
+        <amount>78</amount>
+    </product_name>
+    <product_name name="Dooleys Toffee">
+        <seller_name>Nat</seller_name>
+        <seller_surname>Gritton</seller_surname>
+        <amount>68</amount>
+    </product_name>
+</MaxProduct>
